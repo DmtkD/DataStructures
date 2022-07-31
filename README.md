@@ -1,8 +1,8 @@
 # DataStructures
-> Repository for data structures written in Python
+Repository for data structures written in Python on the course «Internet of Things» in Lviv Polytehnic National University
 
-## Task №1
-> Create a сlosed unidirectional linked list for some device
+## Task
+**Create a сlosed-oneway linked list for some device**
 
 ### Add the following methods to the list
 ```
@@ -22,6 +22,6 @@
 - Year of manufacture
 - Limit of measurement
 ```
-# Screen of task
+### Screen of task
 
 ![image](https://user-images.githubusercontent.com/93161863/170862330-49cbd670-7c88-42e0-ae89-e5d1439f8bd6.png)
